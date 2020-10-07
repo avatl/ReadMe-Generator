@@ -1,45 +1,40 @@
-### readme-generator
+
+  
+  ### readme-generator
   
   # Welcome to readme-generator:
-  
+
   ## Description
-  developed an interactive markdown for easier README's
+    I developed an interactive markdown for easier README's
 
   ## Table of Contents
-  Navigate through the README Using the Table of Contents: 
-
-  [Installation](https://github.com/avatl/readme-generator#installation)
-  
-  [Usage](https://github.com/avatl/readme-generator#usage-)
-  
-  [License](https://github.com/avatl/readme-generator#license)
-  
-  [Contributions](https://github.com/avatl/readme-generator#contributing)
-  
-  [Badges](https://github.com/avatl/readme-generator#badges)
-  
-  [Tests](https://github.com/avatl/readme-generator#tests)
-  
-  [Questions](https://github.com/avatl/readme-generator#questions)
+  Navigate through the README Using the Table of Contents : 
+  [Installation](#Installation)
+  [Usage](#Usage)
+  [License](#License)
+  [Contributions](#Contributing)
+  [Badges](#Badges)
+  [Tests](#Tests)
+  [Questions](#Questions)
       
-  ### Installation
-    type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
+  ## Installation
+    Type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
     
-  ### Usage <a name="usage"></a>
+  ## Usage
     to streamline the creation of readme files
     
-  ### License
+  ## License
     ISC
    
-  ### Contributing
-    no
+  ## Contributing
+    No other contributers for this project
    
-  ### Badges
+  ## Badges
     
-  ### Tests
-    I have not
+  ## Tests
+    No tests required
     
-  ### Questions
+  ## Questions
 
   [Link to Creator Github](https://github.com/avatl)
     
