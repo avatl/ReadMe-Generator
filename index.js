@@ -49,7 +49,7 @@ function writeToFile(data) {
 }
 
 // function to initialize program
- async function init() {
+function init() {
     inquirer.prompt(questions)
         .then((response) => {
             const createFile = generateMarkdown(response);
