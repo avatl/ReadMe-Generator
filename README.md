@@ -5,7 +5,7 @@
   # Welcome to readme-generator:
 
   ## Description
-    I developed an interactive markdown for easier README's
+    Type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents: 
@@ -28,18 +28,18 @@
     Type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
     
   ### Usage
-    To streamline the creation of readme files
+    to streamline readme files
     
   ### License
     ISC
    
   ### Contributing
-    No other contributers for this project
+    No other contributers
    
   ### Badges
     
   ### Tests
-    No tests required
+    no tests required
     
   ### Questions
 
