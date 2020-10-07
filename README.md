@@ -7,8 +7,8 @@
 
   <h2> Table of Contents </h2>
     Navigate through the README Using the Table of Contents : 
-      * [Installation](#installation)
-      * [Usage](#usage)
+      *  (https://github.com/avatl/readme-generator#installation)
+      * [Usage](#Usage)
       * [License](#license)
       * [Contributions](#contributing)
       * [Badges](#badges)
@@ -18,7 +18,7 @@
   ## Installation
     type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
     
-  ## Usage
+  ## Usage <a name="usage"></a>
     to streamline the creation of readme files
     
   ## License
