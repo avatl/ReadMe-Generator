@@ -8,7 +8,7 @@
     I developed an interactive markdown for easier README's
 
   ## Table of Contents
-  Navigate through the README Using the Table of Contents : 
+  Navigate through the README Using the Table of Contents: 
   [Installation](#Installation)
   [Usage](#Usage)
   [License](#License)

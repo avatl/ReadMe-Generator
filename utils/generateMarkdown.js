@@ -10,33 +10,40 @@ function generateMarkdown(data) {
     ${data.description}
 
   ## Table of Contents
-  Navigate through the README Using the Table of Contents : 
+  Navigate through the README Using the Table of Contents: 
+
   [Installation](#Installation)
+  
   [Usage](#Usage)
+  
   [License](#License)
+  
   [Contributions](#Contributing)
+  
   [Badges](#Badges)
+  
   [Tests](#Tests)
+  
   [Questions](#Questions)
       
-  ## Installation
+  ### Installation
     ${data.instructions}
     
-  ## Usage
+  ### Usage
     ${data.usage}
     
-  ## License
+  ### License
     ${data.license}
    
-  ## Contributing
+  ### Contributing
     ${data.contributors}
    
-  ## Badges
+  ### Badges
     
-  ## Tests
+  ### Tests
     ${data.tests}
     
-  ## Questions
+  ### Questions
 
   [Link to Creator Github](https://github.com/${data.username})
     `)
