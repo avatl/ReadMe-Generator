@@ -9,32 +9,39 @@
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents: 
+
   [Installation](#Installation)
+  
   [Usage](#Usage)
+  
   [License](#License)
+  
   [Contributions](#Contributing)
+  
   [Badges](#Badges)
+  
   [Tests](#Tests)
+  
   [Questions](#Questions)
       
-  ## Installation
+  ### Installation
     Type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
     
-  ## Usage
-    to streamline the creation of readme files
+  ### Usage
+    To streamline the creation of readme files
     
-  ## License
+  ### License
     ISC
    
-  ## Contributing
+  ### Contributing
     No other contributers for this project
    
-  ## Badges
+  ### Badges
     
-  ## Tests
+  ### Tests
     No tests required
     
-  ## Questions
+  ### Questions
 
   [Link to Creator Github](https://github.com/avatl)
     
