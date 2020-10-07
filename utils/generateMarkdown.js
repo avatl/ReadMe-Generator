@@ -2,41 +2,41 @@
 function generateMarkdown(data) {
   return (`# ${data.title}
   
-    <h1>Welcome to ${data.title}:</h1>
+  # Welcome to ${data.title}:
 
-    ### Description
-      ${data.description}
+  ### Description
+    ${data.description}
 
-    <h2> Table of Contents </h2>
-    Navigate through the README Using the Table of Contents : 
-      * [Installation](#installation)
-      * [Usage](#usage)
-      * [License](#license)
-      * [Contributions](#contributing)
-      * [Badges](#badges)
-      * [Tests](#tests)
-      * [Questions](#questions)
+  <h2> Table of Contents </h2>
+  Navigate through the README Using the Table of Contents : 
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributions](#contributing)
+    * [Badges](#badges)
+    * [Tests](#tests)
+    * [Questions](#questions)
       
-    ## Installation
-      ${data.instructions}
+  ## Installation
+    ${data.instructions}
     
-    ## Usage
-      ${data.usage}
+  ## Usage
+    ${data.usage}
     
-    ## License
-      ${data.license}
+  ## License
+    ${data.license}
    
-    ## Contributing
-      ${data.contributors}
+  ## Contributing
+    ${data.contributors}
    
-    ## Badges
+  ## Badges
     
-    ## Tests
-      ${data.tests}
+  ## Tests
+    ${data.tests}
     
-    ## Questions
+  ## Questions
 
-    [Link to Creator Github](https://github.com/${data.username})
+  [Link to Creator Github](https://github.com/${data.username})
     `)
 }
 

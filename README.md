@@ -1,11 +1,11 @@
 # readme-generator
   
-    <h1>Welcome to readme-generator:</h1>
+  <h1>Welcome to readme-generator:</h1>
+  
+  ### Description
+  developed an interactive markdown for easier readme's
 
-    ### Description
-      developed an interactive markdown for easier readme's
-
-    <h2> Table of Contents </h2>
+  <h2> Table of Contents </h2>
     Navigate through the README Using the Table of Contents : 
       * [Installation](#installation)
       * [Usage](#usage)
@@ -15,24 +15,24 @@
       * [Tests](#tests)
       * [Questions](#questions)
       
-    ## Installation
-      type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
+  ## Installation
+    type 'node index.js' in the integrative terminal and answer the prompts, open the README file and watch it come to life!
     
-    ## Usage
-      to streamline the creation of readme files
+  ## Usage
+    to streamline the creation of readme files
     
-    ## License
-      ISC
+  ## License
+    ISC
    
-    ## Contributing
-      no
+  ## Contributing
+    no
    
-    ## Badges
+   ## Badges
     
-    ## Tests
-      I have not
+   ## Tests
+    I have not
     
-    ## Questions
+   ## Questions
 
-    [Link to Creator Github](https://github.com/avatl)
+  [Link to Creator Github](https://github.com/avatl)
     
