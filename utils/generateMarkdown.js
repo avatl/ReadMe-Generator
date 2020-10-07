@@ -2,12 +2,12 @@
 function generateMarkdown(data) {
   return (`# ${data.title}
   
-    # Welcome to ${data.title}: 
+    <h1>Welcome to ${data.title}:</h1>
 
-    ## Description
+    ### Description
       ${data.description}
 
-    ## Table of Contents
+    <h2> Table of Contents </h2>
     Navigate through the README Using the Table of Contents : 
       * [Installation](#installation)
       * [Usage](#usage)
