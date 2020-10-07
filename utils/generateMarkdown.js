@@ -6,10 +6,10 @@ function generateMarkdown(data) {
   
   # Welcome to ${data.title}:
 
-  ### Description
+  ## Description
     ${data.description}
 
-  ### Table of Contents
+  ## Table of Contents
   Navigate through the README Using the Table of Contents : 
   [Installation](#Installation)
   [Usage](#Usage)
