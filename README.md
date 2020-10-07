@@ -1,4 +1,4 @@
-## readme-generator
+# readme-generator
   
   # Welcome to readme-generator:
   
@@ -7,7 +7,7 @@
 
   ### Table of Contents
     Navigate through the README Using the Table of Contents : 
-    [Installation] (https://github.com/avatl/readme-generator#installation)
+    [Installation](#Installation)
     [Usage](https://github.com/avatl/readme-generator#usage-)
     [License](https://github.com/avatl/readme-generator#license)
     [Contributions](https://github.com/avatl/readme-generator#contributing)

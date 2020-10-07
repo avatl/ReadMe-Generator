@@ -1,13 +1,15 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return (`# ${data.title}
+  return (`
+  
+  ### ${data.title}
   
   # Welcome to ${data.title}:
 
   ### Description
     ${data.description}
 
-  <h2> Table of Contents </h2>
+  ### Table of Contents
   Navigate through the README Using the Table of Contents : 
     * [Installation](#installation)
     * [Usage](#usage)
