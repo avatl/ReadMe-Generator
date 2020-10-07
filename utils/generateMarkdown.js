@@ -11,13 +11,13 @@ function generateMarkdown(data) {
 
   ### Table of Contents
   Navigate through the README Using the Table of Contents : 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributions](#contributing)
-    * [Badges](#badges)
-    * [Tests](#tests)
-    * [Questions](#questions)
+  [Installation](#Installation)
+  [Usage](#Usage)
+  [License](#License)
+  [Contributions](#Contributing)
+  [Badges](#Badges)
+  [Tests](#Tests)
+  [Questions](#Questions)
       
   ## Installation
     ${data.instructions}
