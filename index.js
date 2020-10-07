@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("utils/generateMarkdown.js");
+const generateMarkdown = require("/Users/ava/development/homework/readme-generator/utils/generateMarkdown.js");
 
 // array of questions for user
 const questions = [
@@ -45,16 +45,16 @@ function writeToFile(data) {
     try {
         fs.writeFileSync("README.md", data)
     }
-    catch (err) {}
+    catch (err) { }
 }
 
 // function to initialize program
-function init() {
+ async function init() {
     inquirer.prompt(questions)
-    .then((response) => {
-        const createFile = generateMarkdown(response);
-        writeToFile(createFile);
-    })
+        .then((response) => {
+            const createFile = generateMarkdown(response);
+            writeToFile(createFile);
+        })
 }
 
 // function call to initialize program

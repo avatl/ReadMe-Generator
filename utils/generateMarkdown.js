@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-    return (`# ${data.title}
+  return (`# ${data.title}
   
     # Welcome to ${data.title}: 
 
@@ -38,7 +38,6 @@ function generateMarkdown(data) {
 
     [Link to Creator Github](https://github.com/${data.username})
     `)
-  }
-  
-  module.exports = generateMarkdown;
-  
+}
+
+module.exports = generateMarkdown;
