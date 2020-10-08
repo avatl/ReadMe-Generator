@@ -7,7 +7,7 @@ function generateMarkdown(data) {
   # Welcome to ${data.title}:
 
   ## Description
-    ${data.description}
+  ${data.description}
 
   ## Table of Contents
   Navigate through the README Using the Table of Contents: 
@@ -27,21 +27,21 @@ function generateMarkdown(data) {
   [Questions](#Questions)
       
   ### Installation
-    ${data.instructions}
+  ${data.instructions}
     
   ### Usage
-    ${data.usage}
+  ${data.usage}
     
   ### License
-    ${data.license}
+  ${data.license}
    
   ### Contributing
-    ${data.contributors}
+  ${data.contributors}
    
   ### Badges
     
   ### Tests
-    ${data.tests}
+  ${data.tests}
     
   ### Questions
 
